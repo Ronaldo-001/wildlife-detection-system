@@ -4,10 +4,10 @@ This project is a wild animal detection system using YOLO-V8, a state-of-the-art
 
 ## Features
 
-- Real-time wild animal detection using YOLO-V8
-- Live video feed from the webcam
-- Detection results are sent to a remote server
-- Web interface for viewing the live feed and detection results
+- Real-time wild animal detection using YOLO-V8.
+- Live video feed from the webcam.
+- Detection results are sent to a remote server.
+- Web interface for viewing the live feed and detection results.
 
 ## Installation
 
